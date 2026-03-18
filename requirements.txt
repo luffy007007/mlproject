@@ -6,4 +6,5 @@ ipykernel
 scikit-learn
 xgboost
 catboost
+dill
 ##-e . ##need to install it in the end , comment down when you intall new libraries
